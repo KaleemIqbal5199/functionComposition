@@ -1,6 +1,7 @@
 # functionComposition
 Function composition is method where we combine tow function and  get one output combine of both function.
 After that we fine a we funtion and add combine with another funtion which give same method out like 1st function.
+This is usally use when two are more person work together and after completing our task marge or all code and make a main file for totally task.
 
 I upload a code of text addition where i apply 1.2% text on every product.
 const addproductTax = price => price * 1.2;
